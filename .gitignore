@@ -71,16 +71,6 @@ __pycache__/
 venv/
 .env
 
-# Data
-data/
-data/*.csv
-data/*.xlsx
-
-# # Models
-# models/
-# models/*.keras
-# models/*.h5
-# models/*.pkl
 
 # Streamlit
 .streamlit/
